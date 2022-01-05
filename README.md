@@ -1,0 +1,2 @@
+# HangfireTemplate
+My Hangfire template
